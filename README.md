@@ -220,8 +220,8 @@ Adopting TypeScript in the entire codebase is more or less repeating the previou
 You can see the fully converted TicTacToe project in the `TicTacToe_TS` folder. Build the app with,
 
 ```
-npm install
-node ./node_modules/webpack/bin/webpack.js
+yarn install
+yarn start
 ```
 
 Run the app by opening `index.html`.
